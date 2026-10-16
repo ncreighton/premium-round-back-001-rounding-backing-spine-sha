@@ -1,0 +1,2 @@
+# premium-round-back-001-rounding-backing-spine-sha
+Tired of uneven rounded spines that ruin the professional look of your handmade books?  This Notion template transforms your chaotic bookbinding workflow into a precise, repeatable lab—systematically tracking rounding, backing, and spine shape variables so you can replicate perfect curves every time. No more guesswork or inconsistent results.  ## W
